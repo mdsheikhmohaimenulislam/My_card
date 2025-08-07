@@ -18,9 +18,9 @@ const User = ({userPromise}) => {
 
     return (
         <div className='space-y-5 border-blue-800 border-2 p-5 m-5'>
-            {/* {
+            {
                 u.map(use => <DisplayData key={use.id} use={use}></DisplayData> )
-            } */}
+            }
      
         </div>
     );
